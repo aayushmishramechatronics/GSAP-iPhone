@@ -36,12 +36,12 @@ const HowItWorks = () => {
 
         <div className="flex flex-col items-center">
           <h2 className="hiw-title">
-            A17 Pro chip.
-            <br /> A monster win for gaming.
+            A17 Pro Chip.
+            <br /> A Monster Win for Gaming.
           </h2>
 
           <p className="hiw-subtitle">
-            It's here. The biggest redesign in the history of Apple GPUs.
+            it's here. the biggest redesign in the history of Apple GPUs.
           </p>
         </div>
 
@@ -84,8 +84,8 @@ const HowItWorks = () => {
 
               <div className="flex-1 flex justify-center flex-col g_fadeIn">
                 <p className="hiw-text">New</p>
-                <p className="hiw-bigtext">Pro-class GPU</p>
-                <p className="hiw-text">with 6 cores</p>
+                <p className="hiw-bigtext">Pro-Class GPU</p>
+                <p className="hiw-text">with 6 Cores</p>
               </div>
               </div>
             </div>
