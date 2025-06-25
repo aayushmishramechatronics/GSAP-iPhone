@@ -7,25 +7,25 @@ const Footer = () => {
       <div className="screen-max-width">
         <div>
           <p className="font-semibold text-gray text-xs">
-            More ways to shop: {' '}
+            More Ways to Shop: {' '}
             <span className="underline text-blue">
             Find an Apple Store {' '}
             </span>
             or {' '}
             <span className="underline text-blue">
-            other retailer
+            Other Retailer
             </span>{' '}
             near you.
           </p>
           <p className="font-semibold text-gray text-xs">
-            Or call 000800-040-1966
+            Or Call 91-84249-66294
           </p>
         </div>
 
         <div className="bg-neutral-700 my-5 h-[1px] w-full" />
 
         <div className="flex md:flex-row flex-col md:items-center justify-between">
-          <p className="font-semibold text-gray text-xs">Copright @ 2024 Design & Build by Mustafa Hassan. All rights reserved.</p>
+          <p className="font-semibold text-gray text-xs">Copright @ 2025 Design & Build by Aayush Mishra. All Rights Reserved.</p>
           <div className="flex">
             {footerLinks.map((link, i) => (
               <p key={link} className="font-semibold text-gray text-xs">
