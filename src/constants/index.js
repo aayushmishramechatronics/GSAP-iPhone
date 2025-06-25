@@ -16,15 +16,15 @@ export const hightlightsSlides = [
     id: 1,
     textLists: [
       "Enter A17 Pro.",
-      "Game‑changing chip.",
-      "Groundbreaking performance.",
+      "Game‑Changing Chip.",
+      "Groundbreaking Performance.",
     ],
     video: highlightFirstVideo,
     videoDuration: 4,
   },
   {
     id: 2,
-    textLists: ["Titanium.", "So strong. So light. So Pro."],
+    textLists: ["Titanium.", "So Strong. So Light. So Pro."],
     video: highlightSecondVideo,
     videoDuration: 5,
   },
